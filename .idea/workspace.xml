@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d79707c1-dbd3-4a53-bd95-bb5967375750" name="Changes" comment="modificatio du message d'affichage Servlet1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp1_1/Servlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tp1_1/Servlet1.java" afterDir="false" />
+    <list default="true" id="d79707c1-dbd3-4a53-bd95-bb5967375750" name="Changes" comment="appliquer du css sur la page d'acceuil">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp1_1/ServletImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +26,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="mohamed1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705808885242</updated>
       <workItem from="1705808886257" duration="3046000" />
-      <workItem from="1705811969952" duration="661000" />
+      <workItem from="1705811969952" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="1er Commit&#10;creation projet">
       <option name="closed" value="true" />
@@ -134,7 +141,31 @@
       <option name="project" value="LOCAL" />
       <updated>1705812137051</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout du CSS ( Servlet1)">
+      <option name="closed" value="true" />
+      <created>1705812706993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705812706993</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modification page d'acceuil">
+      <option name="closed" value="true" />
+      <created>1705812854379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705812854379</updated>
+    </task>
+    <task id="LOCAL-00006" summary="appliquer du css sur la page d'acceuil">
+      <option name="closed" value="true" />
+      <created>1705813008774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705813008774</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +186,9 @@
     <MESSAGE value="1er Commit&#10;creation projet" />
     <MESSAGE value="creation Servlet1" />
     <MESSAGE value="modificatio du message d'affichage Servlet1" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificatio du message d'affichage Servlet1" />
+    <MESSAGE value="ajout du CSS ( Servlet1)" />
+    <MESSAGE value="modification page d'acceuil" />
+    <MESSAGE value="appliquer du css sur la page d'acceuil" />
+    <option name="LAST_COMMIT_MESSAGE" value="appliquer du css sur la page d'acceuil" />
   </component>
 </project>
