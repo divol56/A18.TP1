@@ -23,6 +23,7 @@
             border-radius: 5px;
             background-color: #ffffff;
             transition: background-color 0.3s ease;
+
         }
 
         a:hover {
@@ -35,7 +36,7 @@
 <h1><%= "Ceci n'est qu'un test" %></h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
-<a href="ServletImage">Image T90</a>
+<a href="servletImage">Image T90</a>
 <a href="servlet3">Surprise</a>
 </body>
 </html>

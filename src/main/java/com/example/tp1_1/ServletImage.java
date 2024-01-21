@@ -9,7 +9,9 @@ public class ServletImage extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "modification du message ";
+        message = "Civilisation scarifiée\n" +
+                "Géographie de l’intolérable\n" +
+                "Impression de mort ";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
@@ -19,7 +21,7 @@ public class ServletImage extends HttpServlet {
         out.println("<html><head>");
         out.println("<style>");
         out.println("body { font-family: Arial, sans-serif; background-color: #f4f4f4; }");
-        out.println("h2 { color: #336699; }");
+        out.println("h2 { color:#af324f; }");
         out.println("</style>");
         out.println("</head><body>");
         out.println("<h2>" + message + "</h2>");
