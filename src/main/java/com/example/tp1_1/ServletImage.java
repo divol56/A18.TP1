@@ -1,8 +1,6 @@
-
 package com.example.tp1_1;
 
 import java.io.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
@@ -17,7 +15,6 @@ public class ServletImage extends HttpServlet {
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         response.setContentType("text/html");
 
-
         PrintWriter out = response.getWriter();
         out.println("<html><head>");
         out.println("<style>");
@@ -26,10 +23,7 @@ public class ServletImage extends HttpServlet {
         out.println("</style>");
         out.println("</head><body>");
         out.println("<h2>" + message + "</h2>");
-
-
-        out.println("<img src='https://upload.wikimedia.org/wikipedia/commons/2/20/T90-0010.jpg' alt='Image'>");
-
+        out.println("<img src='https://upload.wikimedia.org/wikipedia/commons/2/20/T90-0010.jpg' alt='Image' />");
         out.println("</body></html>");
     }
 

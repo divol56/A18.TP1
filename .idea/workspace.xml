@@ -9,8 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d79707c1-dbd3-4a53-bd95-bb5967375750" name="Changes" comment="creation ServletImage">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp1_1/Servlet3.java" afterDir="false" />
+    <list default="true" id="d79707c1-dbd3-4a53-bd95-bb5967375750" name="Changes" comment="effacement Servlet1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp1_1/ServletImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tp1_1/ServletImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705808885242</updated>
       <workItem from="1705808886257" duration="3046000" />
-      <workItem from="1705811969952" duration="2317000" />
+      <workItem from="1705811969952" duration="2828000" />
     </task>
     <task id="LOCAL-00001" summary="1er Commit&#10;creation projet">
       <option name="closed" value="true" />
@@ -186,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705813714345</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="creation Servlet3 au nom de S1000XR">
+      <option name="closed" value="true" />
+      <created>1705814459803</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705814459803</updated>
+    </task>
+    <task id="LOCAL-00009" summary="effacement Servlet1">
+      <option name="closed" value="true" />
+      <created>1705814546208</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705814546208</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +227,8 @@
     <MESSAGE value="modification page d'acceuil" />
     <MESSAGE value="appliquer du css sur la page d'acceuil" />
     <MESSAGE value="creation ServletImage" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation ServletImage" />
+    <MESSAGE value="creation Servlet3 au nom de S1000XR" />
+    <MESSAGE value="effacement Servlet1" />
+    <option name="LAST_COMMIT_MESSAGE" value="effacement Servlet1" />
   </component>
 </project>

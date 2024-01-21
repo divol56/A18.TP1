@@ -6,20 +6,20 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #367e76;
+            background-color: #40a291;
             margin: 20px;
         }
 
         h1 {
-            color: blue;
+            color: #5959be;
         }
 
         a {
             text-decoration: none;
             padding: 5px 10px;
             margin-right: 10px;
-            border: 1px solid #336699;
-            color: #336699;
+            border: 1px solid #326eaf;
+            color: #2a353f;
             border-radius: 5px;
             background-color: #ffffff;
             transition: background-color 0.3s ease;
@@ -35,7 +35,6 @@
 <h1><%= "Ceci n'est qu'un test" %></h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
-<a href="servlet1">Servlet 1</a>
 <a href="ServletImage">Image T90</a>
 <a href="servlet3">Surprise</a>
 </body>
