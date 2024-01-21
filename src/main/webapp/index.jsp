@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #7e3636;
+            background-color: #367e76;
             margin: 20px;
         }
 
@@ -32,10 +32,11 @@
     </style>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
+<h1><%= "Ceci n'est qu'un test" %></h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <a href="servlet1">Servlet 1</a>
 <a href="ServletImage">Image T90</a>
+<a href="servlet3">Surprise</a>
 </body>
 </html>
