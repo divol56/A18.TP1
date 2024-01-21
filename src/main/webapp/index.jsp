@@ -11,15 +11,15 @@
         }
 
         h1 {
-            color: #5959be;
+            color: rgba(91, 91, 210, 0.22);
         }
 
         a {
             text-decoration: none;
             padding: 5px 10px;
             margin-right: 10px;
-            border: 1px solid #326eaf;
-            color: #2a353f;
+            border: 1px solid rgba(25, 66, 110, 0.38);
+            color: #1f2428;
             border-radius: 5px;
             background-color: #ffffff;
             transition: background-color 0.3s ease;
